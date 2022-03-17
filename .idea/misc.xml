@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_api30.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_api_calling.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout/activity_emp_list.xml" value="0.2875" />
+        <entry key="app/src/main/res/layout/activity_external.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/activity_json_parse.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2875" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/activity_my_internal.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/add_notes.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/emp_update_dialog.xml" value="0.2875" />
+        <entry key="app/src/main/res/layout/progress_dialog.xml" value="0.2831723436705643" />
+        <entry key="app/src/main/res/layout/show_note_data.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/menu/add_notes.xml" value="0.29010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

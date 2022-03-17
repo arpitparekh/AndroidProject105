@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".room_crud.EmpListActivity"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:background="#FFEB3B">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#8BC34A"
+        android:padding="20dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Name"
+            android:gravity="center"
+            android:id="@+id/edtNameEmpRoom"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Email"
+            android:gravity="center"
+            android:id="@+id/edtEmailRoom"
+            android:layout_marginTop="10dp"/>
+
+
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnSubmit"
+            android:text="Submit"
+            app:icon="@drawable/ic_check"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:backgroundTint="#FFAB40"/>
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
