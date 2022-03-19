@@ -17,7 +17,7 @@
         android:theme="@style/Theme.KotlinAfternoonBatch"
         android:usesCleartextTraffic="true">
         <activity
-            android:name=".retrofit_api.DataListActivity"
+            android:name=".retrofit_api_weather.WeatherActivity"
             android:exported="true" >
 
             <intent-filter>
@@ -28,13 +28,16 @@
 
         </activity>
         <activity
-            android:name=".JsonParsing.JsonParseActivity"
+            android:name=".retrofit_api.DataListActivity"
             android:exported="true">
 
         </activity>
         <activity
-            android:name=".external_storage_permission_api30_up.Api30Activity"
+            android:name=".JsonParsing.JsonParseActivity"
             android:exported="true"></activity>
+        <activity
+            android:name=".external_storage_permission_api30_up.Api30Activity"
+            android:exported="true" />
         <activity
             android:name=".external_storage_api29.ExternalActivity"
             android:exported="true" />

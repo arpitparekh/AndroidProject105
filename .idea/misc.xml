@@ -12,10 +12,12 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2875" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.29010416666666666" />
         <entry key="app/src/main/res/layout/activity_my_internal.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/activity_weather.xml" value="0.2609375" />
         <entry key="app/src/main/res/layout/add_notes.xml" value="0.29010416666666666" />
         <entry key="app/src/main/res/layout/emp_update_dialog.xml" value="0.2875" />
         <entry key="app/src/main/res/layout/progress_dialog.xml" value="0.2831723436705643" />
         <entry key="app/src/main/res/layout/show_note_data.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/weather_row_item.xml" value="0.2609375" />
         <entry key="app/src/main/res/menu/add_notes.xml" value="0.29010416666666666" />
       </map>
     </option>
