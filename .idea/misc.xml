@@ -9,9 +9,11 @@
         <entry key="app/src/main/res/layout/activity_emp_list.xml" value="0.2875" />
         <entry key="app/src/main/res/layout/activity_external.xml" value="0.29010416666666666" />
         <entry key="app/src/main/res/layout/activity_json_parse.xml" value="0.2609375" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2609375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2875" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.29010416666666666" />
         <entry key="app/src/main/res/layout/activity_my_internal.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.264" />
         <entry key="app/src/main/res/layout/activity_weather.xml" value="0.2609375" />
         <entry key="app/src/main/res/layout/add_notes.xml" value="0.29010416666666666" />
         <entry key="app/src/main/res/layout/emp_update_dialog.xml" value="0.2875" />

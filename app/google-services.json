@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922745831731",
+    "project_id": "kotlinafternoon",
+    "storage_bucket": "kotlinafternoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922745831731:android:d65aca8b521d435c8fbe46",
+        "android_client_info": {
+          "package_name": "com.arpitparekh.kotlinafternoonbatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922745831731-uv75qn2bn28u99d6vnr926k5km3e93ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arpitparekh.kotlinafternoonbatch",
+            "certificate_hash": "dfc6f6ad5ebf7cee0b53a0c13b39d286befd0619"
+          }
+        },
+        {
+          "client_id": "922745831731-ql7niq55pvr5p9po79qe0q3l9ug10rrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3KTwzLf1ldigKh5mnLxdY65ytiWQHO1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922745831731-ql7niq55pvr5p9po79qe0q3l9ug10rrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
